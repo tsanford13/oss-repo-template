@@ -13,7 +13,7 @@
 
 
 ## Lab Reports
-[Lab 1](labs/lab-01/report.md)
+[Lab 1](https://github.com/tsanford13/oss-repo-template/blob/master/labs/lab-01/lab01.md)
 
 1. **Bio**
 
